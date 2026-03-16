@@ -1,0 +1,7 @@
+Student Handbook (Simple Demo)
+
+Library timing is 9 AM to 5 PM from Monday to Friday.
+Cafeteria opens at 8 AM and closes at 6 PM.
+If a student misses an exam due to medical reasons, they can apply for a re-exam with proof.
+Hostel gate closes at 10 PM.
+For technical help, students can contact support@college.edu.
